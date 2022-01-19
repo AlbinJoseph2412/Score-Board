@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@200&display=swap');
+
+body{
+    font-family: 'Outfit', sans-serif;
+    margin-top: 200px;
+    text-align: center;
+    font-size: 20px;
+    background-image: url(C:\Users\H\Desktop\download.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+table{
+    align-items: center;
+    margin-left: 400px;
+    height: 200px;
+    width: 700px;
+    color: rgb(41, 43, 42);
+}
+div{
+    background-color: rgb(226, 226, 226);
+    opacity: 90%;
+}
+table,
+tr,
+th,
+td{
+    border: 5px solid black;
+    border-collapse: collapse;
+}
+h1{
+    color: rgb(0, 11, 167);
+}
